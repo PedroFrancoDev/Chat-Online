@@ -1,0 +1,1 @@
+ /Users/pedrofrancomobile/MOBILE\ LAB/Chat-Online/.dart_tool/flutter_build/40342ee773c83c374c7054b424c19ca4/native_assets.yaml: 

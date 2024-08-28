@@ -1,0 +1,4 @@
+#Wed Aug 28 17:06:44 WAT 2024
+base.0=/Users/pedrofrancomobile/MOBILE LAB/Chat-Online/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
